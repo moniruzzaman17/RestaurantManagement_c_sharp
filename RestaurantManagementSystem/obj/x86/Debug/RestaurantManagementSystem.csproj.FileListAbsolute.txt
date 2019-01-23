@@ -1,0 +1,14 @@
+C:\Users\Moniruzzaman\documents\visual studio 2017\Projects\RestaurantManagementSystem\RestaurantManagementSystem\bin\x86\Debug\RestaurantManagementSystem.exe.config
+C:\Users\Moniruzzaman\documents\visual studio 2017\Projects\RestaurantManagementSystem\RestaurantManagementSystem\bin\x86\Debug\RestaurantManagementSystem.exe
+C:\Users\Moniruzzaman\documents\visual studio 2017\Projects\RestaurantManagementSystem\RestaurantManagementSystem\bin\x86\Debug\RestaurantManagementSystem.pdb
+C:\Users\Moniruzzaman\documents\visual studio 2017\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\x86\Debug\RestaurantManagementSystem.Admin_Home.resources
+C:\Users\Moniruzzaman\documents\visual studio 2017\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\x86\Debug\RestaurantManagementSystem.Admin_Reg.resources
+C:\Users\Moniruzzaman\documents\visual studio 2017\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\x86\Debug\RestaurantManagementSystem.Employee_Home.resources
+C:\Users\Moniruzzaman\documents\visual studio 2017\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\x86\Debug\RestaurantManagementSystem.Employee_Reg.resources
+C:\Users\Moniruzzaman\documents\visual studio 2017\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\x86\Debug\RestaurantManagementSystem.Form1.resources
+C:\Users\Moniruzzaman\documents\visual studio 2017\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\x86\Debug\RestaurantManagementSystem.Properties.Resources.resources
+C:\Users\Moniruzzaman\documents\visual studio 2017\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\x86\Debug\RestaurantManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Moniruzzaman\documents\visual studio 2017\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\x86\Debug\RestaurantManagementSystem.exe
+C:\Users\Moniruzzaman\documents\visual studio 2017\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\x86\Debug\RestaurantManagementSystem.pdb
+C:\Users\Moniruzzaman\documents\visual studio 2017\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\x86\Debug\RestaurantManagementSystem.Admin_info.resources
+C:\Users\Moniruzzaman\documents\visual studio 2017\Projects\RestaurantManagementSystem\RestaurantManagementSystem\obj\x86\Debug\RestaurantManagementSystem.csprojResolveAssemblyReference.cache
